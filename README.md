@@ -33,30 +33,37 @@ The book introduces the core libraries essential for working with data in Python
 ---
 
 ## Data Science For Beginners
-[https://github.com/yiqiao-yin/Data-Science-For-Beginners/blob/main/README.md](https://github.com/yiqiao-yin/Data-Science-For-Beginners/blob/main/README.md)  
-Azure Cloud Advocates at Microsoft are pleased to offer a 10-week, 20-lesson curriculum all about Data Science. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.  
+[https://yiqiao-yin.github.io/Data-Science-For-Beginners/#/](https://yiqiao-yin.github.io/Data-Science-For-Beginners/#/)
+
+Azure Cloud Advocates at Microsoft are pleased to offer a 10-week, 20-lesson curriculum all about Data Science. Each lesson includes pre-lesson and post-lesson quizzes, written instructions to complete the lesson, a solution, and an assignment. Our project-based pedagogy allows you to learn while building, a proven way for new skills to 'stick'.
+
 [Go Back to TOC](#table-of-contents)
 
 ---
 
 ## Data Science IPython Notebooks
-[https://github.com/yiqiao-yin/data-science-ipython-notebooks/blob/master/README.md](https://github.com/yiqiao-yin/data-science-ipython-notebooks/blob/master/README.md)  
-IPython Notebook(s) demonstrating deep learning functionality.  
+[https://yiqiao-yin.github.io/data-science-ipython-notebooks/](https://yiqiao-yin.github.io/data-science-ipython-notebooks/)
+
+IPython Notebook(s) demonstrating deep learning functionality. This resource covers the topics of *deep learning*, *tensorflow*, *keras*, *sci-kit learn*, and many other common packages built for machine learning and AI.
+
 [Go Back to TOC](#table-of-contents)
 
 ---
 
 ## Applied Machine Learning
-[https://github.com/eugeneyan/applied-ml/blob/main/README.md](https://github.com/eugeneyan/applied-ml/blob/main/README.md)  
-Curated papers, articles, and blogs on data science & machine learning in production. ⚙️  
+[https://yiqiao-yin.github.io/applied-ml/](https://yiqiao-yin.github.io/applied-ml/)
+
+Curated papers, articles, and blogs on data science & machine learning in production. ⚙️
 [Go Back to TOC](#table-of-contents)
 
 ---
 
 ## Awesome Data Science
-[https://github.com/yiqiao-yin/awesome-datascience/blob/live/README.md](https://github.com/yiqiao-yin/awesome-datascience/blob/live/README.md)  
+[https://yiqiao-yin.github.io/awesome-datascience/](https://yiqiao-yin.github.io/awesome-datascience/)
+
 An open-source Data Science repository to learn and apply towards solving real world problems.
 
-This is a shortcut path to start studying Data Science. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"  
+This is a shortcut path to start studying Data Science. Just follow the steps to answer the questions, "What is Data Science and what should I study to learn Data Science?"
+
 [Go Back to TOC](#table-of-contents)
 
